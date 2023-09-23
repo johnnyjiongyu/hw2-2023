@@ -78,7 +78,7 @@ div.blue > h2 {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-top: 2px solid;
@@ -93,7 +93,7 @@ footer {
     border: 5px solid #ffffff;
 }
 
-footer > p {
+footer p {
     font-size: 20px;
     text-align: right;
     padding-top: 15px solid;
